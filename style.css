@@ -120,17 +120,23 @@
     border-top:8px solid #222322;
 
 }
+.content-first{
+    width: 35%;
+}
+.image-first{
+    width: 35%;
+}
 .first .image-first img{
-    width: 568px;
+    width: 100%;
 }
 .content-first h1{
     font-size: 3.5rem;
     font-weight: 700;
-    width: 568px;
+    width: 100%;
 }
 .content-first p{
     font-size: 1.5rem;
-    width: 568px;
+    width: 100%;
     padding-top: 16px ;
 
 }
@@ -145,17 +151,23 @@
     padding: 72px 0px;
     border-top:8px solid #222322;
 }
+.content-second{
+    width: 35%;
+}
+.image-second{
+    width: 35%;
+}
 .second .image-second img{
-    width: 568px;
+    width: 100%;
 }
 .content-second h1{
     font-size: 3.5rem;
     font-weight: 700;
-    width: 568px;
+    width: 100%;
 }
 .content-second p{
     font-size: 1.5rem;
-    width: 568px;
+    width: 100%;
     padding-top: 16px ;
 
 }
@@ -170,17 +182,23 @@
     padding: 72px 0px;
     border-top:8px solid #222322;
 }
+.content-third{
+    width: 35%;
+}
+.image-third{
+    width: 35%;
+}
 .third .image-third img{
-    width: 568px;
+    width: 100%;
 }
 .content-third h1{
     font-size: 3.5rem;
     font-weight: 700;
-    width: 568px;
+    width: 100%;
 }
 .content-third p{
     font-size: 1.5rem;
-    width: 568px;
+    width: 100%;
     padding-top: 16px ;
 }
 
@@ -194,20 +212,26 @@
     padding: 72px 0px;
     border-top:8px solid #222322;
 }
+.content-forth{
+    width: 35%;
+}
+.image-forth{
+    width: 35%;
+}
 .forth .image-forth img{
-    width: 568px;
+    width: 100%;
 }
 .content-forth h1{
     font-size: 3.5rem;
     font-weight: 700;
-    width: 568px;
+    width: 100%;
 }
 .content-forth p{
     font-size: 1.5rem;
-    width: 568px;
+    width: 100%;
     padding-top: 16px ;
 }
-
+/*  */
 .five{
     height: 750px;
     background-color: black;
